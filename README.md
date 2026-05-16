@@ -5,15 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Quick+Learner;Independent+Thinker" />
 
 <br><br>
-
-<img src="https://media.giphy.com/media/74ZOAgI9Al0Dm/giphy.gif" width="420"/>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="420"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="420"/>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
-
-
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
 </div>
 
 ---
