@@ -113,7 +113,7 @@
 
 # 📈 GitHub Activity Graph
 
-[![Gowthami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthami1980&theme=tokyo-night)](https://github.com/gowthami1980)
+[![Gowthami's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthami1980&theme=react-dark)](https://github.com/gowthami1980)
 
 ---
 
