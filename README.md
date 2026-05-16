@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌸 Hey There, I'm Gowthami E 👋
+# 🌸 Hello, I'm Gowthami E 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Creative+Thinker;Passionate+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=750&height=60&color=FF69B4&duration=4000&lines=Full+Stack+Developer;Quick+Learner;Independent+Thinker" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
 
 </div>
 
@@ -14,11 +14,11 @@
 
 # 🌷 About Me
 
-✨ Passionate Full Stack Developer with interest in creating modern and user-friendly applications.
+✨ Passionate Full Stack Developer interested in building modern and user-friendly applications.
 
-✨ Enthusiastic learner focused on improving programming and problem-solving skills.
+✨ Quick learner with strong interest in programming, development, and creative technologies.
 
-✨ Interested in web technologies, creative development, and building innovative projects.
+✨ Independent thinker focused on continuous learning and improving problem-solving skills.
 
 ---
 
